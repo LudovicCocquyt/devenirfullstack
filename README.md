@@ -6,6 +6,4 @@
 
 ###Implémentation une authentification sécurisée à base du token JWT.###
 
-####Enfin, implémentation de la gestion du téléchargement de fichiers, permettant ainsi aux utilisateurs d'ajouter et de supprimer des images.##### devenirfullstack
-# devenirfullstack
-# devenirfullstack
+####Enfin, implémentation de la gestion du téléchargement de fichiers, permettant ainsi aux utilisateurs d'ajouter et de supprimer des images.##### devenirfullstack####
